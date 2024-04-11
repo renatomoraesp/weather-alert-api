@@ -24,7 +24,7 @@ To run the Weather Alert API, follow these steps:
 
 3. Create a `.env` file in the project root directory and add your OpenWeather API key:
 
-`API_KEY=YOUR_API_KEY`
+`WEATHER_API_KEY=YOUR_API_KEY`
 
 4. Run the application:
 
